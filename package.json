@@ -1,0 +1,25 @@
+{
+  "name": "everydaycoffee",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html --open",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/111Bakhmat/Everydaycoffee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/111Bakhmat/Everydaycoffee/issues"
+  },
+  "homepage": "https://github.com/111Bakhmat/Everydaycoffee#readme",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.8.0",
+    "parcel": "^2.8.0",
+    "sass": "^1.56.1"
+  }
+}
